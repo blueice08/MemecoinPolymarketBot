@@ -1,0 +1,11 @@
+{
+  "updatedAt": null,
+  "sampleSize": 0,
+  "weights": {
+    "momentum": 0.35,
+    "liquidity": 0.3,
+    "risk": 0.2,
+    "social": 0.15
+  },
+  "note": "Phase C auto-tuned from closed trade outcomes"
+}

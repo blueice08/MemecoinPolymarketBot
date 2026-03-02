@@ -1,0 +1,84 @@
+{
+  "signals": [
+    {
+      "id": "bkftgndwq6fmm9jkq6w",
+      "mint": "92T7FvngxNuxBd9uu8xPTmTf1WpA45etFUf9uR5Upump",
+      "symbol": "GORKIUS",
+      "account": "@pentosh1",
+      "weight": 1.2,
+      "sentiment": 1,
+      "note": "reseed after reset",
+      "at": "2026-03-02T18:58:16.856Z"
+    },
+    {
+      "id": "e3am3pwfshfmm9jkq6o",
+      "mint": "BorBvxBN9oDk232U6WQvUwkyxoxBCcJsBkQg1iWbpump",
+      "symbol": "WAGMI",
+      "account": "@DegenSpartan",
+      "weight": 1.2,
+      "sentiment": 1,
+      "note": "reseed after reset",
+      "at": "2026-03-02T18:58:16.848Z"
+    },
+    {
+      "id": "cokyf9niw8nmm9jkq6h",
+      "mint": "FJPoRjKUkE4BP3cULAKiqztBjTxRG3qcRTV9SFf7pump",
+      "symbol": "CLAW402",
+      "account": "@AltcoinDailyio",
+      "weight": 1.2,
+      "sentiment": 1,
+      "note": "reseed after reset",
+      "at": "2026-03-02T18:58:16.841Z"
+    },
+    {
+      "id": "xra5yb3548bmm9jkq68",
+      "mint": "D4rYzmXpYWn9RUWGZdqWxfV7drzLa5JT4gjGEnQVpump",
+      "symbol": "DITTO",
+      "account": "@CryptoCred",
+      "weight": 1.2,
+      "sentiment": 1,
+      "note": "reseed after reset",
+      "at": "2026-03-02T18:58:16.832Z"
+    },
+    {
+      "id": "sp9nl8vthnmm9jkq5y",
+      "mint": "9CaDXpmVuVXaGWX9LNLA8pQwd8vG2o5pHzfMDdeEpump",
+      "symbol": "JEW",
+      "account": "@DefiIgnas",
+      "weight": 1.2,
+      "sentiment": 1,
+      "note": "reseed after reset",
+      "at": "2026-03-02T18:58:16.822Z"
+    },
+    {
+      "id": "dp0a1ydyk8jmm9jkq5m",
+      "mint": "HB1bqSLDmQunAWQZJvSGA9NsBdEe1NczA6n4sRuFpump",
+      "symbol": "MINDLESS",
+      "account": "@thedefiedge",
+      "weight": 1.2,
+      "sentiment": 1,
+      "note": "reseed after reset",
+      "at": "2026-03-02T18:58:16.811Z"
+    },
+    {
+      "id": "pnsjrs4kflmm9jkq56",
+      "mint": "6Dqbs7EAmWhraJiLJAW8WG8Hby2aiYDkinjJqKUkpump",
+      "symbol": "BARRON",
+      "account": "@OnchainDataNerd",
+      "weight": 1.2,
+      "sentiment": 1,
+      "note": "reseed after reset",
+      "at": "2026-03-02T18:58:16.794Z"
+    },
+    {
+      "id": "05z8rfjbf8qmm9jkq4n",
+      "mint": "ABvaesm1cqWvbon8Sc1EzYkXoZo7XBdV2piPAYi8pump",
+      "symbol": "HITLER",
+      "account": "@lookonchain",
+      "weight": 1.2,
+      "sentiment": 1,
+      "note": "reseed after reset",
+      "at": "2026-03-02T18:58:16.775Z"
+    }
+  ]
+}

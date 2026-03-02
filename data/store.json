@@ -1,0 +1,219 @@
+{
+  "polymarket": {
+    "bankrollStart": 1000,
+    "bankrollCash": 1000,
+    "bets": [],
+    "activity": []
+  },
+  "meme": {
+    "bankrollStart": 1000,
+    "bankrollCash": 988.0031025975047,
+    "bets": [
+      {
+        "id": "n30ffeliulmm9jzj15",
+        "market": "CLAW402 (FJPoRjKUkE4BP3cULAKiqztBjTxRG3qcRTV9SFf7pump)",
+        "side": "LONG",
+        "entryOdds": 238756.96463701664,
+        "currentOdds": 272112.6946416788,
+        "size": 6,
+        "confidence": "score:70.33",
+        "thesis": "pump.fun scored-entry | score=70.33 (M:100 L:32.97 R:86.7 S:54.01) | mentions=1 | gain24h=9019.92%",
+        "invalidation": "mint:FJPoRjKUkE4BP3cULAKiqztBjTxRG3qcRTV9SFf7pump",
+        "status": "open",
+        "createdAt": "2026-03-02T19:09:47.417Z",
+        "updatedAt": "2026-03-02T19:09:47.626Z"
+      },
+      {
+        "id": "69995zqky9omm9jl59e",
+        "market": "HITLER (ABvaesm1cqWvbon8Sc1EzYkXoZo7XBdV2piPAYi8pump)",
+        "side": "LONG",
+        "entryOdds": 3180116.769174646,
+        "currentOdds": 1644.4370588102677,
+        "size": 6,
+        "confidence": "score:70.45",
+        "thesis": "pump.fun scored-entry | score=70.45 (M:83.21 L:74.98 R:57.55 S:48.83) | mentions=1 | gain24h=113713.10%",
+        "invalidation": "mint:ABvaesm1cqWvbon8Sc1EzYkXoZo7XBdV2piPAYi8pump",
+        "status": "closed",
+        "createdAt": "2026-03-02T18:58:36.386Z",
+        "updatedAt": "2026-03-02T19:09:47.920Z",
+        "closedAt": "2026-03-02T19:09:47.937Z",
+        "payout": 0.0031025975047521124,
+        "realizedPnl": -5.9968974024952475
+      }
+    ],
+    "activity": [
+      {
+        "id": "q6cj5jn6w1gmm9jzjfl",
+        "type": "bet_closed",
+        "payload": {
+          "betId": "69995zqky9omm9jl59e",
+          "market": "HITLER (ABvaesm1cqWvbon8Sc1EzYkXoZo7XBdV2piPAYi8pump)",
+          "payout": 0.0031025975047521124,
+          "realizedPnl": -5.9968974024952475,
+          "equityAfter": 994.8413373285093,
+          "note": "auto-close: SL hit (-99.95%)"
+        },
+        "at": "2026-03-02T19:09:47.937Z"
+      },
+      {
+        "id": "eowz6ridliimm9jzjf4",
+        "type": "bet_updated",
+        "payload": {
+          "betId": "69995zqky9omm9jl59e",
+          "market": "HITLER (ABvaesm1cqWvbon8Sc1EzYkXoZo7XBdV2piPAYi8pump)",
+          "currentOdds": 1644.4370588102677,
+          "note": "auto-mark-from-pump-api"
+        },
+        "at": "2026-03-02T19:09:47.920Z"
+      },
+      {
+        "id": "oivaf22j9sdmm9jzj6y",
+        "type": "bet_updated",
+        "payload": {
+          "betId": "n30ffeliulmm9jzj15",
+          "market": "CLAW402 (FJPoRjKUkE4BP3cULAKiqztBjTxRG3qcRTV9SFf7pump)",
+          "currentOdds": 272112.6946416788,
+          "note": "auto-mark-from-pump-api"
+        },
+        "at": "2026-03-02T19:09:47.626Z"
+      },
+      {
+        "id": "jz629lj2svmmm9jzj15",
+        "type": "bet_opened",
+        "payload": {
+          "betId": "n30ffeliulmm9jzj15",
+          "market": "CLAW402 (FJPoRjKUkE4BP3cULAKiqztBjTxRG3qcRTV9SFf7pump)",
+          "side": "LONG",
+          "size": 6,
+          "entryOdds": 238756.96463701664
+        },
+        "at": "2026-03-02T19:09:47.417Z"
+      },
+      {
+        "id": "3ptzl2z3vnymm9jl59e",
+        "type": "bet_opened",
+        "payload": {
+          "betId": "69995zqky9omm9jl59e",
+          "market": "HITLER (ABvaesm1cqWvbon8Sc1EzYkXoZo7XBdV2piPAYi8pump)",
+          "side": "LONG",
+          "size": 6,
+          "entryOdds": 3180116.769174646
+        },
+        "at": "2026-03-02T18:58:36.386Z"
+      },
+      {
+        "id": "zi1564xmpq8mm9jkq71",
+        "type": "social_signal_added",
+        "payload": {
+          "mint": "92T7FvngxNuxBd9uu8xPTmTf1WpA45etFUf9uR5Upump",
+          "symbol": "GORKIUS",
+          "account": "@pentosh1",
+          "weight": 1.2,
+          "sentiment": 1
+        },
+        "at": "2026-03-02T18:58:16.861Z"
+      },
+      {
+        "id": "ie665r3xc9rmm9jkq6s",
+        "type": "social_signal_added",
+        "payload": {
+          "mint": "BorBvxBN9oDk232U6WQvUwkyxoxBCcJsBkQg1iWbpump",
+          "symbol": "WAGMI",
+          "account": "@DegenSpartan",
+          "weight": 1.2,
+          "sentiment": 1
+        },
+        "at": "2026-03-02T18:58:16.852Z"
+      },
+      {
+        "id": "vet4qx90jhmm9jkq6k",
+        "type": "social_signal_added",
+        "payload": {
+          "mint": "FJPoRjKUkE4BP3cULAKiqztBjTxRG3qcRTV9SFf7pump",
+          "symbol": "CLAW402",
+          "account": "@AltcoinDailyio",
+          "weight": 1.2,
+          "sentiment": 1
+        },
+        "at": "2026-03-02T18:58:16.844Z"
+      },
+      {
+        "id": "jffjdctx5mamm9jkq6b",
+        "type": "social_signal_added",
+        "payload": {
+          "mint": "D4rYzmXpYWn9RUWGZdqWxfV7drzLa5JT4gjGEnQVpump",
+          "symbol": "DITTO",
+          "account": "@CryptoCred",
+          "weight": 1.2,
+          "sentiment": 1
+        },
+        "at": "2026-03-02T18:58:16.835Z"
+      },
+      {
+        "id": "k6sq4x6qv2mm9jkq61",
+        "type": "social_signal_added",
+        "payload": {
+          "mint": "9CaDXpmVuVXaGWX9LNLA8pQwd8vG2o5pHzfMDdeEpump",
+          "symbol": "JEW",
+          "account": "@DefiIgnas",
+          "weight": 1.2,
+          "sentiment": 1
+        },
+        "at": "2026-03-02T18:58:16.825Z"
+      },
+      {
+        "id": "in9t9mln1ufmm9jkq5o",
+        "type": "social_signal_added",
+        "payload": {
+          "mint": "HB1bqSLDmQunAWQZJvSGA9NsBdEe1NczA6n4sRuFpump",
+          "symbol": "MINDLESS",
+          "account": "@thedefiedge",
+          "weight": 1.2,
+          "sentiment": 1
+        },
+        "at": "2026-03-02T18:58:16.812Z"
+      },
+      {
+        "id": "usffeue65umm9jkq58",
+        "type": "social_signal_added",
+        "payload": {
+          "mint": "6Dqbs7EAmWhraJiLJAW8WG8Hby2aiYDkinjJqKUkpump",
+          "symbol": "BARRON",
+          "account": "@OnchainDataNerd",
+          "weight": 1.2,
+          "sentiment": 1
+        },
+        "at": "2026-03-02T18:58:16.796Z"
+      },
+      {
+        "id": "lhlq184pgxsmm9jkq4o",
+        "type": "social_signal_added",
+        "payload": {
+          "mint": "ABvaesm1cqWvbon8Sc1EzYkXoZo7XBdV2piPAYi8pump",
+          "symbol": "HITLER",
+          "account": "@lookonchain",
+          "weight": 1.2,
+          "sentiment": 1
+        },
+        "at": "2026-03-02T18:58:16.776Z"
+      }
+    ]
+  },
+  "memeStatus": {
+    "lastRunAt": "2026-03-02T19:09:45.997Z",
+    "source": "https://frontend-api-v3.pump.fun/homepage-cache/search?limit=1000&offset=0&includeNsfw=true&sortBy=price_change_24h&sortOrder=DESC",
+    "minGainPercent": 50,
+    "minScore": 70,
+    "scanned": 2,
+    "qualifying": 2,
+    "posted": 1,
+    "updated": 2,
+    "closed": 1,
+    "takeProfitPct": 30,
+    "stopLossPct": -15,
+    "maxHoldHours": 6,
+    "tuningSampleSize": 0,
+    "tuningWeights": null,
+    "message": "Cycle complete. qualifying=2, opened=1, marked=2, autoClosed=1, tuning=insufficient_samples:1."
+  }
+}
